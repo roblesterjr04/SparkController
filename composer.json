@@ -1,5 +1,5 @@
 {
-    "name": "rob-lester-jr04",
+    "name": "rob-lester-jr04/spark-controller",
     "type": "app",
     "description": "Spark CNC Machine Controller",
     "keywords": ["spark", "cnc"],
