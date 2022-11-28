@@ -1,6 +1,6 @@
 {
     "name": "rob-lester-jr04/spark-controller",
-    "type": "project",
+    "type": "app",
     "description": "Spark CNC Controller",
     "keywords": ["spark", "cnc", "controller"],
     "license": "MIT",
