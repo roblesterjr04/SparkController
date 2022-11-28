@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "rob-lester-jr04/spark-controller",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Spark CNC Controller",
+    "keywords": ["spark", "cnc", "controller"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
